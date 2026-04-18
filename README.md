@@ -45,3 +45,9 @@ Did the test campaign significantly impact conversion performance compared to th
 data/  
 notebooks/  
 outputs/
+
+<img width="292" height="463" alt="image" src="https://github.com/user-attachments/assets/161c6b81-4e1c-4ba0-9c4e-ec0eeb430177" />
+<img width="556" height="130" alt="image" src="https://github.com/user-attachments/assets/a2eded91-dfd6-4c8e-ae00-b6625517b4d4" />
+<img width="813" height="466" alt="image" src="https://github.com/user-attachments/assets/ac3d8842-c1bd-468f-88fb-7c03ab97eee5" />
+
+
